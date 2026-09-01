@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prashanth 👋
 
-<!--
-**PrashanthLande/PrashanthLande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Lead and AI/ML Engineer interested in building practical AI systems and solving real-world engineering problems.
 
-Here are some ideas to get you started:
+## 👨‍💻 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLMs and VLMs
+- Document AI
+- AI/ML Engineering
+- System Design and Software Architecture
+- Open Source
+
+## 🌱 Currently Learning
+
+Currently learning PyTorch and planning to build a Transformer from scratch to understand how modern language models work.
+
+## 🔓 Open Source
+
+Contributor to the Docling ecosystem.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/prashanth-lande-5890a7214/)
