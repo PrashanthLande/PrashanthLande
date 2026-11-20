@@ -12,7 +12,7 @@
 
 ## 🔓 Open Source
 
-Contributor to **[Docling](https://github.com/docling-project/docling)** and **[crawlee-python](https://github.com/apify/crawlee-python)**.
+Contributor to **[Docling](https://github.com/docling-project/docling)**, **[pypdf](https://github.com/py-pdf/pypdf)** and **[crawlee-python](https://github.com/apify/crawlee-python)**.
 
 ## 💡 Engineering Philosophy
 
