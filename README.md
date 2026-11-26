@@ -5,7 +5,7 @@
 ## 🛠️ What I Work With
 
 **AI / ML:** PyTorch · Hugging Face · Transformers · LLMs · VLMs · LoRA / QLoRA  
-**Document AI:** Docling · Chandra OCR · Document & Table Understanding  
+**Document AI:** Docling · Document & Table Understanding · OCR & VLM-based parsing  
 **LLM / Agents:** OpenAI API · Structured Outputs · LangGraph  
 **Infra:** vLLM · LiteLLM · AWS EC2 · Docker · Prometheus · Grafana  
 **Backend:** Python · Flask · Kafka · RabbitMQ · MongoDB · MySQL
@@ -22,5 +22,5 @@ engineering solutions.
 
 ## 📫 Connect
 
-[Portfolio](https://prashanthlande.github.io) · [LinkedIn](https://www.linkedin.com/in/prashanthlande) · [Medium](https://medium.com/@landeprashanth)
+[LinkedIn](https://www.linkedin.com/in/prashanthlande) · [Medium](https://medium.com/@landeprashanth)
 
